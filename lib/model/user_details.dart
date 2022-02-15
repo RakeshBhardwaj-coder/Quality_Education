@@ -1,5 +1,3 @@
-import 'dart:core';
-
 class UserDetails {
   String? displayName;
   String? email;
